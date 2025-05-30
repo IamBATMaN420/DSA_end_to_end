@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-  string a = "ayush";
+  string a = "ayushy";
   int b = a.length();
   cout << b;
 }
